@@ -1,21 +1,7 @@
 # Marinado de Frango com Azeite de Oliva
 
-- [Marinado de Frango com Azeite de Oliva](#marinado-de-frango-com-azeite-de-oliva)
-  - [Ingredientes](#ingredientes)
-  - [Como Preparar](#como-preparar)
-    - [Mistura dos Ingredientes](#mistura-dos-ingredientes)
-    - [Marinar o Frango](#marinar-o-frango)
-    - [Tempo de Marinada](#tempo-de-marinada)
-    - [Congelamento](#congelamento)
-  - [Como fritar](#como-fritar)
-    - [Preparação](#preparação)
-    - [Pré-aquecimento da panela](#pré-aquecimento-da-panela)
-    - [Fritura](#fritura)
-    - [Tempo de cozimento](#tempo-de-cozimento)
-    - [Finalização e descanso](#finalização-e-descanso)
-    - [Dicas Adicionais](#dicas-adicionais)
-
 ## Ingredientes
+
 - 330g de peito de frango. (pode ser cortado em filés, tiras ou cubos, conforme sua preferência)
 - 2 colheres de sopa de azeite de oliva extra virgem (aproximadamente 30 ml)
 - 1 colher de sopa de suco de limão fresco (15 ml)

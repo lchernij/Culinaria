@@ -1,12 +1,11 @@
-# Marinado de Frango com Shoyo
+# Marinado de Frango com Azeite de Oliva
 
-- [Marinado de Frango com Shoyo](#marinado-de-frango-com-shoyo)
+- [Marinado de Frango com Azeite de Oliva](#marinado-de-frango-com-azeite-de-oliva)
   - [Ingredientes](#ingredientes)
-  - [Como preparar](#como-preparar)
+  - [Como Preparar](#como-preparar)
     - [Mistura dos Ingredientes](#mistura-dos-ingredientes)
     - [Marinar o Frango](#marinar-o-frango)
     - [Tempo de Marinada](#tempo-de-marinada)
-    - [Congelamento](#congelamento)
   - [Como fritar](#como-fritar)
     - [Preparação](#preparação)
     - [Pré-aquecimento da panela](#pré-aquecimento-da-panela)
@@ -16,24 +15,19 @@
     - [Dicas Adicionais](#dicas-adicionais)
 
 ## Ingredientes
-
 - 330g de peito de frango
-- 3 colheres de sopa de shoyu (aproximadamente 45 ml – de preferência com baixo teor de sódio)
-- 1 colher de sopa de vinagre de arroz (cerca de 15 ml)
-- 1 colher de chá de mel (opcional – para um toque adocicado; se gostar mais doce, pode aumentar para 1½ colheres de chá)
+- 2 colheres de sopa de azeite de oliva extra virgem (aproximadamente 30 ml)
+- 1 colher de sopa de suco de limão fresco (15 ml)
 - 1 dente de alho pequeno, picado ou amassado
-- 2/3 de colher de chá de gengibre fresco ralado
-- 1/2 colher de chá de óleo de gergelim (para aroma)
-- 1 colher de sopa de água (para suavizar, se necessário)
+- 1/4 colher de chá de sal (ajuste conforme o seu gosto)
 - Pimenta-do-reino a gosto
+- 1/4 colher de chá de ervas secas (por exemplo, orégano ou tomilho; opcional)
 
-(Observação: o shoyu já é salgado, portanto, ajuste o sal se achar necessário.)
-
-## Como preparar
+## Como Preparar
 
 ### Mistura dos Ingredientes
 
-Em uma tigela pequena, junte o shoyu, o vinagre de arroz, o mel e a água. Mexa bem até que o mel se dissolva completamente. Em seguida, acrescente o alho picado, o gengibre ralado e o óleo de gergelim. Finalize adicionando uma pitada de pimenta-do-reino (e sal, se for do seu gosto).
+Em uma tigela pequena, misture o azeite de oliva, o suco de limão e o alho picado. Adicione o sal, a pimenta-do-reino e as ervas secas (se optar por usá-las). Misture bem até que os ingredientes se incorporem por completo.
 
 ### Marinar o Frango
 
@@ -42,10 +36,6 @@ Coloque os 330 gramas de frango (pode ser cortado em filés, tiras ou cubos, con
 ### Tempo de Marinada
 
 Para que os sabores se destaquem, deixe o frango marinar na geladeira por pelo menos 1 a 2 horas. Se preferir antecipar o preparo, você pode deixar marinando por até 12 horas. Caso queira armazenar por mais tempo, a marinada também pode ser congelada; lembre-se de descongelar lentamente na geladeira antes de cozinhar.
-
-### Congelamento
-
-Pode congelar o frango marinado por até 3 meses. Para descongelar, coloque na geladeira por 24 horas antes de cozinhar.
 
 ## Como fritar
 

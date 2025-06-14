@@ -6,6 +6,7 @@
     - [Mistura dos Ingredientes](#mistura-dos-ingredientes)
     - [Marinar o Frango](#marinar-o-frango)
     - [Tempo de Marinada](#tempo-de-marinada)
+    - [Congelamento](#congelamento)
   - [Como fritar](#como-fritar)
     - [Preparação](#preparação)
     - [Pré-aquecimento da panela](#pré-aquecimento-da-panela)
@@ -15,7 +16,7 @@
     - [Dicas Adicionais](#dicas-adicionais)
 
 ## Ingredientes
-- 330g de peito de frango
+- 330g de peito de frango. (pode ser cortado em filés, tiras ou cubos, conforme sua preferência)
 - 2 colheres de sopa de azeite de oliva extra virgem (aproximadamente 30 ml)
 - 1 colher de sopa de suco de limão fresco (15 ml)
 - 1 dente de alho pequeno, picado ou amassado
@@ -31,11 +32,15 @@ Em uma tigela pequena, misture o azeite de oliva, o suco de limão e o alho pica
 
 ### Marinar o Frango
 
-Coloque os 330 gramas de frango (pode ser cortado em filés, tiras ou cubos, conforme sua preferência) em um saco plástico próprio para marinadas ou num recipiente hermético. Despeje a mistura sobre o frango e massageie delicadamente para que o tempero cubra todos os pedaços de maneira uniforme.
+Coloque os 330 gramas de frango em um saco plástico próprio para marinadas ou num recipiente hermético. Despeje a mistura sobre o frango e massageie delicadamente para que o tempero cubra todos os pedaços de maneira uniforme.
 
 ### Tempo de Marinada
 
-Para que os sabores se destaquem, deixe o frango marinar na geladeira por pelo menos 1 a 2 horas. Se preferir antecipar o preparo, você pode deixar marinando por até 12 horas. Caso queira armazenar por mais tempo, a marinada também pode ser congelada; lembre-se de descongelar lentamente na geladeira antes de cozinhar.
+Para que os sabores se destaquem, deixe o frango marinar na geladeira por pelo menos 1 a 2 horas. Se preferir antecipar o preparo, você pode deixar marinando por até 12 horas. 
+
+### Congelamento
+
+Pode congelar o frango marinado por até 3 meses. Para descongelar, coloque na geladeira por 24 horas antes de cozinhar.
 
 ## Como fritar
 

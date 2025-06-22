@@ -3,7 +3,7 @@
 ## Ingredientes
 
 - 330g de peito de frango. (pode ser cortado em filés, tiras ou cubos, conforme sua preferência)
-- 3 colheres de sopa de shoyu (aproximadamente 45 ml – de preferência com baixo teor de sódio)
+- 2 colheres de sopa de shoyu (aproximadamente 45 ml – de preferência com baixo teor de sódio)
 - 1 colher de sopa de vinagre de arroz (cerca de 15 ml)
 - 1 colher de chá de mel (opcional – para um toque adocicado; se gostar mais doce, pode aumentar para 1½ colheres de chá)
 - 1 dente de alho pequeno, picado ou amassado
